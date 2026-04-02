@@ -1,12 +1,13 @@
 ### 💫 About Me:
 
-DevOps engineer focused on automation, security, and zero downtime.
-Passionate about learning DevOps → DevSecOps.
+<i>DevOps engineer focused on automation, security, and zero downtime.
+Passionate about learning DevOps → DevSecOps.<i>
 
 🎬 For fun: movies & creating short animations with Illustrator.
-
 🌐 Portfolio: [lynasovann.site](https://www.lynasovann.site/)
 🤝 Open to connect & collaborate — for work, DevOps discussions, or advice.!
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -24,4 +25,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<i><small>The one who keeps going goes the farthest.</small></i>
 
