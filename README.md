@@ -1,12 +1,13 @@
 ### 💫 About Me:
+
 DevOps engineer focused on automation, security, and zero downtime.
-Love learning DevOps → DevSecOps.
+Passionate about learning DevOps → DevSecOps.
 
-### 🎬 Fun
-Movies & creating short animations with Illustrator.
+🎬 For fun: movies & creating short animations with Illustrator.
 
-### 📫 Reach me
-Open to connect & collaborate!
+🌐 Portfolio: lynasovann.site
+🤝 Open to connect & collaborate — for work, DevOps discussions, or advice.!
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
