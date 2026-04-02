@@ -1,13 +1,11 @@
-## Hi there 👋
-
-# 💫 About Me:
+### 💫 About Me:
 DevOps engineer focused on automation, security, and zero downtime.
 Love learning DevOps → DevSecOps.
 
-# 🎬 Fun
+### 🎬 Fun
 Movies & creating short animations with Illustrator.
 
-# 📫 Reach me
+### 📫 Reach me
 Open to connect & collaborate!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
