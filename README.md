@@ -5,7 +5,7 @@ Passionate about learning DevOps → DevSecOps.
 
 🎬 For fun: movies & creating short animations with Illustrator.
 
-🌐 Portfolio: lynasovann.site
+🌐 Portfolio: [lynasovann.site](https://www.lynasovann.site/)
 🤝 Open to connect & collaborate — for work, DevOps discussions, or advice.!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
