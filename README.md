@@ -3,9 +3,9 @@
 <i>DevOps engineer focused on automation, security, and zero downtime.
 Passionate about learning DevOps → DevSecOps.<i>
 
-🎬 For fun: movies & creating short animations with Illustrator.
-🌐 Portfolio: [lynasovann.site](https://www.lynasovann.site/)
-🤝 Open to connect & collaborate — for work, DevOps discussions, or advice.!
+🎬 For fun: movies & creating short animations with Illustrator. <br>
+🌐 Portfolio: [lynasovann.site](https://www.lynasovann.site/) <br>
+🤝 Open to connect & collaborate — for work, DevOps discussions, or advice.! <br>
 
 
 
@@ -45,5 +45,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<i><small>The one who keeps going goes the farthest.</small></i>
+<div align="center">
+  <i><small style="color: #888;">Do a little daily — it becomes a lot someday.</small></i>
+</div>
 
