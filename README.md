@@ -26,25 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br><br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <div align="center">
   <i><small style="color: #888;">Do a little daily — it becomes a lot someday.</small></i>
 </div>
