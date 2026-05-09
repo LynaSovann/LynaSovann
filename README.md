@@ -1,7 +1,7 @@
 ### 💫 About Me:
 
-<i>DevOps engineer focused on automation, security, and zero downtime.
-Passionate about learning DevOps → DevSecOps.<i>
+<p>DevOps engineer & cloud infrastructure focused on cloud infrastructure design, security, automation, and zero downtime.
+Passionate about learning DevOps → DevSecOps.</p>
 
 🎬 For fun: movies & creating short animations with Illustrator. <br>
 🌐 Portfolio: [lynasovann.site](https://www.lynasovann.site/) <br>
